@@ -283,6 +283,8 @@
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPAnchor.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPSession.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPTrackingState.cs" />
+    <Compile Include="Assets\scripts\ARCoreImageController.cs" />
+    <Compile Include="Assets\scripts\AugmentedImageVisualizerOverride.cs" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\PlaneGrid.shader" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\MobileDiffuseWithLightEstimation.shader" />
     <None Include="Assets\GoogleARCore\SDK\Materials\ARBackground.shader" />
