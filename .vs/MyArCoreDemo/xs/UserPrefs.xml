@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C660773D-9E9A-086D-9FB3-B51FFF05CBAD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageExampleController.cs">
+    <Files>
+      <File FileName="Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageVisualizer.cs" Line="42" Column="23" />
+      <File FileName="Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageExampleController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyArCoreDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GoogleARCore" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="AugmentedImage" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="AugmentedImageExampleController.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="80044965-c61c-49f3-8e04-444e9792d55f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
