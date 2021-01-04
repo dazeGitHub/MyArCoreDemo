@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

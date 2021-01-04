@@ -1,0 +1,361 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:2:1-37:12
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/b39fe7522916f99cba374da24b22d6a1/AndroidManifest.xml:17:1-30:12
+MERGED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:17:1-46:12
+MERGED from [:arcore_rendering_utils:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_rendering_utils.aar/d23aa3ac819a9e7dd3a51326db469555/AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_unity:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_unity.aar/54de2bb7166963da515f3c8944f206fb/AndroidManifest.xml:2:1-11:12
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/faaec146ff1b6c7ec503e57ba5cbd965/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/fd95847704d77e26f9b91acbd918a572/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/f237020938debb2b63a5d772732788f3/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/547cbff7118058155b48cfbb10f5494e/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/765bd0476fdd3dcde3faf727cb4953e0/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-auth-base-16.0.0.aar/ac47821dad29b5080bb0a1c81c9a0e5a/AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:17:1-29:12
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.0.1.aar/b26fb04a3154108b41070c58a332d664/AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/a543996342adcbe7e277ba556ee493ff/AndroidManifest.xml:2:1-9:12
+MERGED from [:customized_manifest:] /Users/imac/.gradle/caches/transforms-1/files-1.1/customized_manifest.aar/13b1a6f7d0cf0f97653857b4c04f2bd7/AndroidManifest.xml:2:1-4:12
+MERGED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:2:1-19:12
+MERGED from [:keyless_authentication:] /Users/imac/.gradle/caches/transforms-1/files-1.1/keyless_authentication.aar/f8a1985764f2b02129f063e491962613/AndroidManifest.xml:2:1-9:12
+MERGED from [:unityandroidpermissions:] /Users/imac/.gradle/caches/transforms-1/files-1.1/unityandroidpermissions.aar/761b27b813555094b25ba9b3c5dea6f9/AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] /Users/imac/.gradle/caches/transforms-1/files-1.1/unitygar.aar/2ae000c744b0363466d9936803121cf2/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-101
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:102-148
+	android:versionCode
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:149-189
+supports-screens
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-18:17
+MERGED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:14:5-35:19
+MERGED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:14:5-35:19
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/b39fe7522916f99cba374da24b22d6a1/AndroidManifest.xml:24:5-28:19
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/b39fe7522916f99cba374da24b22d6a1/AndroidManifest.xml:24:5-28:19
+MERGED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:30:5-44:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/faaec146ff1b6c7ec503e57ba5cbd965/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/faaec146ff1b6c7ec503e57ba5cbd965/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/fd95847704d77e26f9b91acbd918a572/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/fd95847704d77e26f9b91acbd918a572/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/f237020938debb2b63a5d772732788f3/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/f237020938debb2b63a5d772732788f3/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/547cbff7118058155b48cfbb10f5494e/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/547cbff7118058155b48cfbb10f5494e/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/765bd0476fdd3dcde3faf727cb4953e0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/765bd0476fdd3dcde3faf727cb4953e0/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.0.1.aar/b26fb04a3154108b41070c58a332d664/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.0.1.aar/b26fb04a3154108b41070c58a332d664/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/a543996342adcbe7e277ba556ee493ff/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/a543996342adcbe7e277ba556ee493ff/AndroidManifest.xml:7:5-20
+MERGED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:13:5-17:19
+MERGED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:13:5-17:19
+	android:label
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.tango-enable
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-73
+	android:value
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:50-70
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-49
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-64
+meta-data#unity.build-id
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:17:5-74
+	android:value
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:17:51-71
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:17:16-50
+uses-feature#0x00020000
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-52
+	android:glEsVersion
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-49
+uses-permission#android.permission.CAMERA
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-63
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-65
+MERGED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:12:5-67
+MERGED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:21:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-80
+uses-sdk
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:7:5-9:41
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/b39fe7522916f99cba374da24b22d6a1/AndroidManifest.xml:20:5-22:41
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/b39fe7522916f99cba374da24b22d6a1/AndroidManifest.xml:20:5-22:41
+MERGED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_rendering_utils:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_rendering_utils.aar/d23aa3ac819a9e7dd3a51326db469555/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_rendering_utils:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_rendering_utils.aar/d23aa3ac819a9e7dd3a51326db469555/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_unity.aar/54de2bb7166963da515f3c8944f206fb/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_unity.aar/54de2bb7166963da515f3c8944f206fb/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/faaec146ff1b6c7ec503e57ba5cbd965/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/faaec146ff1b6c7ec503e57ba5cbd965/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/fd95847704d77e26f9b91acbd918a572/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/fd95847704d77e26f9b91acbd918a572/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/f237020938debb2b63a5d772732788f3/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/f237020938debb2b63a5d772732788f3/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/547cbff7118058155b48cfbb10f5494e/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/547cbff7118058155b48cfbb10f5494e/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/765bd0476fdd3dcde3faf727cb4953e0/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/765bd0476fdd3dcde3faf727cb4953e0/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-auth-base-16.0.0.aar/ac47821dad29b5080bb0a1c81c9a0e5a/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-auth-base-16.0.0.aar/ac47821dad29b5080bb0a1c81c9a0e5a/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.0.1.aar/b26fb04a3154108b41070c58a332d664/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.0.1.aar/b26fb04a3154108b41070c58a332d664/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/a543996342adcbe7e277ba556ee493ff/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/a543996342adcbe7e277ba556ee493ff/AndroidManifest.xml:5:5-44
+MERGED from [:customized_manifest:] /Users/imac/.gradle/caches/transforms-1/files-1.1/customized_manifest.aar/13b1a6f7d0cf0f97653857b4c04f2bd7/AndroidManifest.xml:3:3-42
+MERGED from [:customized_manifest:] /Users/imac/.gradle/caches/transforms-1/files-1.1/customized_manifest.aar/13b1a6f7d0cf0f97653857b4c04f2bd7/AndroidManifest.xml:3:3-42
+MERGED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:7:5-44
+MERGED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:7:5-44
+MERGED from [:keyless_authentication:] /Users/imac/.gradle/caches/transforms-1/files-1.1/keyless_authentication.aar/f8a1985764f2b02129f063e491962613/AndroidManifest.xml:7:5-44
+MERGED from [:keyless_authentication:] /Users/imac/.gradle/caches/transforms-1/files-1.1/keyless_authentication.aar/f8a1985764f2b02129f063e491962613/AndroidManifest.xml:7:5-44
+MERGED from [:unityandroidpermissions:] /Users/imac/.gradle/caches/transforms-1/files-1.1/unityandroidpermissions.aar/761b27b813555094b25ba9b3c5dea6f9/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/imac/.gradle/caches/transforms-1/files-1.1/unityandroidpermissions.aar/761b27b813555094b25ba9b3c5dea6f9/AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] /Users/imac/.gradle/caches/transforms-1/files-1.1/unitygar.aar/2ae000c744b0363466d9936803121cf2/AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] /Users/imac/.gradle/caches/transforms-1/files-1.1/unitygar.aar/2ae000c744b0363466d9936803121cf2/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac/MyDir/Project/ArProject/MyArCoreDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:11:22-76
+activity#com.unity3d.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:15:9-19:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:17:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:16:13-65
+activity#com.unity3d.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:20:9-24:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:22:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:21:13-76
+activity#com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:25:9-29:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:28:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:27:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:26:13-84
+activity#com.unity3d.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:30:9-34:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:33:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:32:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from [:UnityAds:] /Users/imac/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/a542d96ac931fe4919a2ba4b6e59cb34/AndroidManifest.xml:31:13-73
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/b39fe7522916f99cba374da24b22d6a1/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/b39fe7522916f99cba374da24b22d6a1/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/b39fe7522916f99cba374da24b22d6a1/AndroidManifest.xml:26:13-58
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/imac/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/abc2d665fd627cf7ca4ef26b448b5bce/AndroidManifest.xml:38:13-62
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/faaec146ff1b6c7ec503e57ba5cbd965/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/faaec146ff1b6c7ec503e57ba5cbd965/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/fd95847704d77e26f9b91acbd918a572/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/fd95847704d77e26f9b91acbd918a572/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/f237020938debb2b63a5d772732788f3/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/f237020938debb2b63a5d772732788f3/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/547cbff7118058155b48cfbb10f5494e/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/547cbff7118058155b48cfbb10f5494e/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/765bd0476fdd3dcde3faf727cb4953e0/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/765bd0476fdd3dcde3faf727cb4953e0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/d5d4770e1f76ca8b8938f61d0737f616/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/ea0504a96d187869dd73ac3708ceeee1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.0.1.aar/b26fb04a3154108b41070c58a332d664/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.0.1.aar/b26fb04a3154108b41070c58a332d664/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] /Users/imac/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.0.1.aar/b26fb04a3154108b41070c58a332d664/AndroidManifest.xml:24:13-58
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:10:9-50
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:14:9-16:40
+	android:value
+		ADDED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:google_ar_required:] /Users/imac/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/cff070d69285cfa3ef4264544af0f5b4/AndroidManifest.xml:15:13-46
