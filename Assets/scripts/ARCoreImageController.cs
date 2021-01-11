@@ -128,11 +128,19 @@
                 ToastUtil.showToast("addSimpleImage targetAnchor is not null , ImageViewContentVisualizerPrefab.Count= " + ImageViewContentVisualizerPrefab.Count);
                 var position = new Vector3(0.0f, 0f, 0.0f);
                 var rotation = new Quaternion(1f, 0f, 0f, -90f);
-                var gameObject = Instantiate(ImageViewContentVisualizerPrefab[0], position, rotation); //ImageViewContentVisualizerPrefab  AugmentedImageVisualizerPrefab
 
-                gameObject.transform.Rotate(0, _prefabRotation, 0, Space.Self);
-                //var anchor = hit.Trackable.CreateAnchor(hit.Pose);
-                gameObject.transform.parent = targetAnchor.transform;
+                //这种方式只对 AugmentedImageVisualizerPrefab 有效
+                //var gameObject = Instantiate(ImageViewContentVisualizerPrefab[0], position, rotation); //ImageViewContentVisualizerPrefab  AugmentedImageVisualizerPrefab
+
+                //方式二: 使用这种方式试试 ImageViewContentVisualizerPrefab 
+                var gameObject = (GameObject)Instantiate(Resources.Load("Prefabs/ArCoreImagePrefab"));
+                GameObject uiCanvas = GameObject.Find("Canvas");
+                gameObject.transform.parent = uiCanvas.transform;
+
+
+                //gameObject.transform.Rotate(0, _prefabRotation, 0, Space.Self);
+                ////var anchor = hit.Trackable.CreateAnchor(hit.Pose);
+                //gameObject.transform.parent = targetAnchor.transform;
             }
             else
             {
