@@ -32,7 +32,17 @@
             Debug.Log(text);
             ToastUtil.showToast(text);
             MsgTextView.text = text;
+
+            //设置中间 ImageView 的图像为 ContentImageSprite
             ContentImageView.overrideSprite = ContentImageSprite;
+
+            //通知 ARCoreImageController
+            //GameObject.Find("需要传递到游戏对象的Name").SendMessage(
+            //      "脚本中的方法名称",
+            //      Object 传递的参数类型,
+            //      SendMessageOptions.DontRequireReceiver//这句代码表示不需要请求返回参数
+            //）;
+            GameObject.Find("ExampleController").SendMessage("AddImageBtnClick", 0, SendMessageOptions.DontRequireReceiver);
         }
     }
 }
